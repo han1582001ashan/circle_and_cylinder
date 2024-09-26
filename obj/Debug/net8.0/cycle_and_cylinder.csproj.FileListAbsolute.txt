@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\cycle_and_cylinder\bin\Debug\net8.0\cycle_and_cylinder.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\cycle_and_cylinder\bin\Debug\net8.0\cycle_and_cylinder.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\cycle_and_cylinder\bin\Debug\net8.0\cycle_and_cylinder.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\cycle_and_cylinder\bin\Debug\net8.0\cycle_and_cylinder.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\cycle_and_cylinder\bin\Debug\net8.0\cycle_and_cylinder.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\cycle_and_cylinder\obj\Debug\net8.0\cycle_and_cylinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\cycle_and_cylinder\obj\Debug\net8.0\cycle_and_cylinder.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\cycle_and_cylinder\obj\Debug\net8.0\cycle_and_cylinder.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\cycle_and_cylinder\obj\Debug\net8.0\cycle_and_cylinder.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\cycle_and_cylinder\obj\Debug\net8.0\cycle_and_cylinder.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\cycle_and_cylinder\obj\Debug\net8.0\refint\cycle_and_cylinder.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\cycle_and_cylinder\obj\Debug\net8.0\cycle_and_cylinder.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\cycle_and_cylinder\obj\Debug\net8.0\cycle_and_cylinder.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\cycle_and_cylinder\obj\Debug\net8.0\ref\cycle_and_cylinder.dll
